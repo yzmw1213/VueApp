@@ -1,5 +1,7 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <p class="text">This is an about page</p>
   </div>
 </template>
+
+<style scoped lang="scss" src="../assets/scss/about.scss"></style>
