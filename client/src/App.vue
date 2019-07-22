@@ -6,7 +6,6 @@
     </div>
     <div class="content_wapper">
       <div class="content_inner">
-        <p class="text">あああ</p>
         <router-view/>
       </div>
     </div>

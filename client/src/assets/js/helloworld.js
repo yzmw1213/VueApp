@@ -4,6 +4,5 @@ export default {
     msg: String,
   },
   mounted() {
-    alert('hello');
   },
 };
