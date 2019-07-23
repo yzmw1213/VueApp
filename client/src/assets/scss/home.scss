@@ -1,0 +1,15 @@
+@import 'app.scss';
+
+.content_wapper {
+  .content_inner {
+    padding: 0 16px;
+    
+    .home {
+      
+      img {
+        width: 60vw;
+        height: 60vw;
+      }
+    }
+  }
+}

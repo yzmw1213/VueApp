@@ -5,9 +5,6 @@
   </div>
 </template>
 
-<script>
+<style scoped lang="scss" src="../assets/scss/home.scss"></style>
 
-export default {
-  name: 'home',
-};
-</script>
+<script src="../assets/js/home.js"></script>
