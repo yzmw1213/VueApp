@@ -16,6 +16,7 @@ docker-compose exec app /bin/ash
 
 # serve 
 cd client
+
 npm run serve
 
 # lint
